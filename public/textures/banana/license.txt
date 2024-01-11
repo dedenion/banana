@@ -1,0 +1,11 @@
+Model Information:
+* title:	SM Fruits Banana Bandle
+* source:	https://sketchfab.com/3d-models/sm-fruits-banana-bandle-cb8d98ee49274d4697406d327492b87a
+* author:	gansaibow (https://sketchfab.com/gansaibow)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "SM Fruits Banana Bandle" (https://sketchfab.com/3d-models/sm-fruits-banana-bandle-cb8d98ee49274d4697406d327492b87a) by gansaibow (https://sketchfab.com/gansaibow) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
